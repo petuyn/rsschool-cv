@@ -1,4 +1,5 @@
-# <p style= "text-align: center;"> **CV**</p>
+<h1 style="text-align: center; font-weight: bold">CV</h1>
+
 #### **Edita Ilyukova**
 #### editapetuyn@gmail.com
 #### Github username - @petuyn
