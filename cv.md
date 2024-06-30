@@ -1,0 +1,5 @@
+- Edita Ilyukova
+- editapetuyn@gmail.com
+- Skills
+- Education
+- English B1+
