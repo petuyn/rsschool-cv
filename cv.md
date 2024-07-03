@@ -1,0 +1,5 @@
+- Edita Ilyukova
+- editapetuyn@gmail.com
+- Skills
+- Education: Grodna State Yanka Kupala University
+- English B1+
